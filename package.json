@@ -1,0 +1,21 @@
+{
+  "name": "github-fetcher-fullstack-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "logic.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon server/index.js"
+  },
+  "author": "Begona Guereca",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^22.1.4",
+    "nodemon": "^1.14.11"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  }
+}

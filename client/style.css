@@ -1,0 +1,154 @@
+h1 {
+  text-align: center;
+  /*color: white;*/
+  font-size: 450%;
+}
+
+form {
+  margin: auto;
+  width: 10%;
+  padding: 10px;
+}
+html {
+  /*background-image: url("photos/image.jpeg");*/
+  background-size: cover;
+  /*background-repeat: no-repeat;*/
+  background-position: center;
+}
+
+
+.collumn-one {
+  display: flex;
+  justify-content: flex-start;
+  margin: auto;
+  width: 20%;
+}
+.collumn-one .square {
+  border: solid 2px black;
+  width: 20px;
+  height: 20px;
+}
+
+
+.collumn-two {
+  display: flex;
+  justify-content: flex-start;
+  margin: auto;
+  width: 20%;
+}
+.collumn-two .square {
+  border: solid 2px black;
+  width: 20px;
+  height: 20px;
+}
+
+
+
+.collumn-three {
+  display: flex;
+  justify-content: flex-start;
+  margin: auto;
+  width: 20%;
+}
+.collumn-three .square {
+  border: solid 2px black;
+  width: 20px;
+  height: 20px;
+}
+
+
+.collumn-four {
+  display: flex;
+  justify-content: flex-start;
+  margin: auto;
+  width: 20%;
+}
+.collumn-four .square {
+  border: solid 2px black;
+  width: 20px;
+  height: 20px;
+}
+
+
+
+.collumn-five {
+  display: flex;
+  justify-content: flex-start;
+  margin: auto;
+  width: 20%;
+}
+.collumn-five .square {
+  border: solid 2px black;
+  width: 20px;
+  height: 20px;
+}
+
+
+
+.collumn-six {
+  display: flex;
+  justify-content: flex-start;
+  margin: auto;
+  width: 20%;
+}
+.collumn-six .square {
+  border: solid 2px black;
+  width: 20px;
+  height: 20px;
+}
+
+
+
+.collumn-seven {
+  display: flex;
+  justify-content: flex-start;
+  margin: auto;
+  width: 20%;
+}
+.collumn-seven .square {
+  border: solid 2px black;
+  width: 20px;
+  height: 20px;
+}
+
+
+
+.collumn-eight {
+  display: flex;
+  justify-content: flex-start;
+  margin: auto;
+  width: 20%;
+}
+.collumn-eight .square {
+  border: solid 2px black;
+  width: 20px;
+  height: 20px;
+}
+
+
+
+.collumn-nine {
+  display: flex;
+  justify-content: flex-start;
+  margin: auto;
+  width: 20%;
+}
+.collumn-nine .square {
+  border: solid 2px black;
+  width: 20px;
+  height: 20px;
+}
+
+
+
+.collumn-ten {
+  display: flex;
+  justify-content: flex-start;
+  margin: auto;
+  width: 20%;
+}
+.collumn-ten .square {
+  border: solid 2px black;
+  width: 20px;
+  height: 20px;
+}
