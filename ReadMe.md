@@ -9,6 +9,9 @@ Back on the client, display a table of each submitted string and its sorted vers
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
+
+<img width="936" alt="screen shot 2018-01-28 at 4 05 04 pm" src="https://user-images.githubusercontent.com/19557880/35489010-f140e91a-0445-11e8-803b-3da648e81a96.png">
+
 ### Prerequisites
 
 What things you need to install the software and how to install them
